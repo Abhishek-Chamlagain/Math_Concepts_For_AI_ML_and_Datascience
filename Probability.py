@@ -11,3 +11,20 @@ and minimum wll be zero(Always False)"""
 """Set of all possible outputs, Example of dice = { 1, 2, 3, 4, 5, 6}
 case = odd number = {1, 3, 5}... This is called event
 Event is a subset of sample space"""
+
+"""Set
+In probability, a set is a collection of elements/outcomes.
+The sample space itself is a set.
+Events are sets too (subsets of the sample space)."""
+
+"""Union ( U )
+Intersection ( ∩ )
+Difference ( - )
+Complement ( A' )
+Mutually Exclusive (Disjoint) Sets
+"""
+
+"""Fair Event
+A fair event occurs in a random experiment where all possible outcomes are equally likely.
+In other words, no outcome is favored over another.
+If all outcomes in the sample space have the same probability, the experiment is fair."""
