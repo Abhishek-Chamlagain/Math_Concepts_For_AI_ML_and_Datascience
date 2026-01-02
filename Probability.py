@@ -28,3 +28,10 @@ Mutually Exclusive (Disjoint) Sets
 A fair event occurs in a random experiment where all possible outcomes are equally likely.
 In other words, no outcome is favored over another.
 If all outcomes in the sample space have the same probability, the experiment is fair."""
+
+# Conditional Probability
+"""and = Both condition should be true
+or = from both one condition should be true
+
+p(A|B)= p(AnB)/p(b)
+Here | -> pipe"""
