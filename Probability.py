@@ -6,3 +6,8 @@ and minimum wll be zero(Always False)"""
 # Example
 """ P(sun rises from east) = always True = 1
     P(sun rises from west) = always False = 0"""
+
+# Sample Space
+"""Set of all possible outputs, Example of dice = { 1, 2, 3, 4, 5, 6}
+case = odd number = {1, 3, 5}... This is called event
+Event is a subset of sample space"""
