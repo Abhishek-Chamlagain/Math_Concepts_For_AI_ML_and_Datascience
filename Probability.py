@@ -54,3 +54,9 @@ It answers:
 What is the probability of A, given B?
 Formula
 P(A|B)=P(B|A)⋅P(A)/P(B)"""
+
+"""Why This Matters in AI/ML 
+Naive Bayes classifier
+Probabilistic models
+Inference & uncertainty
+Spam detection, medical diagnosis, recommendation systems"""
