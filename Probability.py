@@ -35,3 +35,10 @@ or = from both one condition should be true
 
 p(A|B)= p(AnB)/p(b)
 Here | -> pipe"""
+
+# MUTUALLY EXCLUSIVE EVENTS
+"""The occurance of one event excludes the occurance of another, then the events are 
+mutually exclusive events  p(AnB)=∅"""
+
+#Independent Events
+"""If the occurance of one event doesnt alter the chances of occurance of other event"""
