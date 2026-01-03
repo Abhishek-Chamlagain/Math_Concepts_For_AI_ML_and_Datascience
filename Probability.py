@@ -42,3 +42,15 @@ mutually exclusive events  p(AnB)=∅"""
 
 #Independent Events
 """If the occurance of one event doesnt alter the chances of occurance of other event"""
+
+# Joint Probability
+"""Joint probability is the probability that two events occur together at the same time.
+Notation:
+P(A∩B)orP(A,B)"""
+
+# Bayes Theorem
+"""Bayes theorem allows us to reverse conditional probability.
+It answers:
+What is the probability of A, given B?
+Formula
+P(A|B)=P(B|A)⋅P(A)/P(B)"""
