@@ -52,7 +52,7 @@ P(A∩B)orP(A,B)"""
 """Bayes theorem allows us to reverse conditional probability.
 It answers:
 What is the probability of A, given B?
-Formula
+Formula: 
 P(A|B)=P(B|A)⋅P(A)/P(B)"""
 
 """Why This Matters in AI/ML 
