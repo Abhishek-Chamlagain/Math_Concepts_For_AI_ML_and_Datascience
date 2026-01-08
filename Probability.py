@@ -60,3 +60,10 @@ Naive Bayes classifier
 Probabilistic models
 Inference & uncertainty
 Spam detection, medical diagnosis, recommendation systems"""
+
+# Random Variable
+
+"""A random variable (RV) is a numerical variable whose value depends on the 
+outcome of a random experiment.It assigns a number to each outcome in the sample space.
+
+Usually denoted by capital letters like X,Y,Z."""
